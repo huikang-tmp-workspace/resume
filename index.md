@@ -5,8 +5,8 @@ title: Resume
 
 # Tong Hui Kang
 <br>
-Final Year Student <br>
-at Singapore University of Technology and Design <br>
+Fresh Graduate <br>from
+Singapore University of Technology and Design <br>
 and Singapore Management University
 
 <div id="contacts">
@@ -48,14 +48,14 @@ empowering information-sharing communities, and competitive programming
 `May 2017 - Aug 2021`
 
 - Bachelors of Engineering with Honours
-- Engineering Systems and Design, Operations Research Track with Information Systems Minor
-- Current CGPA <a id="sutd-gpa">> 4.00/5.00</a>
+- Engineering Systems and Design, Operations Research Track with Computer Science Minor
+- Grade Point Average <a id="sutd-gpa">> 4.00/5.00</a>
 
 **Singapore Management University**
 `May 2017 - Aug 2021`
 
 - Bachelor of Business Management
-- Current CGPA <a id="smu-gpa">> 3.00/4.00</a>
+- Grade Point Average <a id="smu-gpa">> 3.00/4.00</a>
 
 
 ## Work Experience
