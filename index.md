@@ -38,10 +38,6 @@ onclick="getOutboundLink('Codeforces'); return true;"
 target="_blank">
 Codeforces</a>
 </div>
-### Interested in
-
-empowering information-sharing communities, and competitive programming
-
 ## Education
 
 **Singapore University of Technology and Design**
@@ -74,8 +70,8 @@ Data Science Intern
 
 - Designed and implemented metrics to illustrate the accuracy of proposed methods
 - Optimized and parallelised routine calculation pipelines with PySpark
+- Collaborated on repositories through a code review process with supervisors
 - Technical domains: python pandas matplotlib pyspark, git, unit tests, bash
-
 
 **2359 Media**
 `Dec 2018 - Sep 2019`<br>
