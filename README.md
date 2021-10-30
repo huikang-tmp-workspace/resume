@@ -1,65 +1,45 @@
-# markdown-cv
+# Resume
 
-A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
+This is my resume using [elipapa/markdown-cv](https://github.com/elipapa/markdown-cv) template, with substantial edits on the CSS.
 
-For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
+# Usage
 
-***
+You are free to use this template. You do not need permission from me.
 
-## Customization
+However, as a courtesy, if you are using my edits, please either fork from my fork, or state it on the README. There is no need to attribute in the rendered resume (otherwise all usages of resume templates would need to do this).
 
-Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+# How to use
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+You make a fork from my fork (which contains my CSS edits), publish as Github Pages and edit the `index.md`. Please refer to the [base repository](https://github.com/elipapa/markdown-cv) for step-by-step details.
 
-and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
+Please see the [differences](https://github.com/elipapa/markdown-cv/compare/master...tonghuikang:main) that I have made with the elipapa/markdown-cv.
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
 
-adding your skills, jobs and education.
+# Why do I use this
 
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
+Due to a phenomenon called [regression toward the mean](https://en.wikipedia.org/wiki/Regression_toward_the_mean), every time after I update my [Codeforces rating](https://codeforces.com/profile/huikang) on my resume, my rating drops. I would want a solution that automatically updates my Codeforces rating. This is the simplest solution that I could engineer.
 
-## Distribution
+Moreover, I would like to provide information of varying degree for different recipients. If you provide the [correct passcode](https://resume.huikang.dev/?passcode=classics) you may get my contact information, among other more personal information.
 
-To transform your plain text CV into a beautiful and shareable HTML page, you have two options:
 
-### I. Use Github Pages to publish it online
+# Alternative Solutions
 
-1. Delete the existing `gh-pages` branch from your fork. It will only contain this webpage. You can either use git or [the Github web interface](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/#deleting-a-branch).
-2. Create a new branch called `gh-pages`.
-3. Head to *yourusername*.github.io/markdown-cv to see your CV live.
+When you are deciding on the resume template to use, these are the benchmarks that you can easily use. These templates are from the pinned messages from the resume channel in cscareers.dev Discord server.
 
-Any change you want to make to your CV from then on would have to be done on the `gh-pages` branch and will be immediately rendered by Github Pages.
+- [Jake's Resume](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs) Overleaf Template for WYSIWYM editing
+- [Resumake](https://resumake.io/) for making a resume without installing or signing up for anything.
 
-### II. Build it locally and print a PDF
+If you want to use a different template, make sure it is least as good as the templates above. With these templates, you will only need to be concerned with the content.
 
-1. To [install jekyll](https://jekyllrb.com/docs/installation/), run `gem install bundler jekyll` from the command line.
-3. [Clone](https://help.github.com/en/articles/cloning-a-repository) your fork of markdown-cv to your local machine.
-3. Type `jekyll serve` to render your CV at http://localhost:4000.
-4. You can edit the `index.md` file and see the changes live in your browser.
-5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
+Most applications will first go through an automated resume filter. To pass the filter, the parser needs to be able to extract important information from the resume. You can try using the parser [here](https://itsjafer.com/#/parser).
 
-## Styling
+The templates from the Discord channel has been touted to be accurately parsed by most major resume parsers.
 
-The included CSS will render your CV in two styles:
-s
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-  right aligned.
+Please be aware of which parties will you be sending your private information to. You are advised to do your research.
 
-To change the default style, simply change the variable in the
-`_config.yml` file.
 
-Any other styling is possible. More CSS style contributions and forks are welcome!
+# Should you use my template
 
-### Author
+Unless you obsess over the display of accurate competitive programming ratings, or a simple solution on sharing your web resume with varying privacy settings, I think you should just use the templates from the Discord channel.
 
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
-
-### License
-
-[MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+Otherwise, feel free to use my template!
