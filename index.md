@@ -98,7 +98,7 @@ Data Science Intern
 - Constructed a Python API to detect registered falsehoods with subject-word-object triplets
 
 
-## Co-curricular activities
+## Activities
 
 **SUTD Robotics Club**
 `May 2017 - March 2020`<br>
