@@ -38,6 +38,7 @@ onclick="getOutboundLink('Codeforces'); return true;"
 target="_blank">
 Codeforces</a>
 </div>
+
 ## Education
 
 **Singapore University of Technology and Design**
@@ -109,11 +110,12 @@ Committee Member, SAUVC participant
 
 
 <div style="page-break-after: always;"></div>
+
 ## Contests
 
 ### Algorithms
 
-**Codeforces** – rating <a id="rating">1599</a> <strong><a href="https://codeforces.com/profile/huikang" id="rank">specialist</a></strong>, rank <a id="placing">15000</a>, over 50 contests
+**Codeforces** – rating <a id="rating">1599</a> <strong><a href="https://codeforces.com/profile/huikang" id="rank">specialist</a></strong>, rank <a id="placing">15000</a>, over 110 contests
 `Present`
 
 **Facebook** Hack 2020 – Coding Challenge Top Team, Overall 2nd Team
