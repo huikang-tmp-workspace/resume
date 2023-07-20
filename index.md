@@ -4,10 +4,6 @@ title: Resume
 ---
 
 # Tong Hui Kang
-<br>
-Fresh Graduate <br>from
-Singapore University of Technology and Design <br>
-and Singapore Management University
 
 <div id="contacts">
 <a id="personal-contacts">Singapore Citizen | hello (at) huikang.dev</a> 
@@ -39,23 +35,16 @@ target="_blank">
 Codeforces</a>
 </div>
 
-## Education
-
-**Singapore University of Technology and Design**
-`May 2017 - Aug 2021`
-
-- Bachelors of Engineering with Honours
-- Engineering Systems and Design, Operations Research Track with Computer Science Minor
-- Grade Point Average <a id="sutd-gpa">> 4.00/5.00</a>
-
-**Singapore Management University**
-`May 2017 - Aug 2021`
-
-- Bachelor of Business Management
-- Grade Point Average <a id="smu-gpa">> 3.00/4.00</a>
-
-
 ## Work Experience
+
+**Quora**
+`Nov 2021 - Present`<br>
+Machine Learning Engineer
+
+- Improved the recommendation systems for Quora feed and digest
+- Co-created a recommendation system for user prompt bots
+- Generated many questions with ChatGPT
+- Technical domains: python, C++, PrestoSQL, git, prompt engineering
 
 **Versafleet**
 `Dec 2020 - Jan 2021`<br>
@@ -83,19 +72,20 @@ Data Science Intern
 - Technical domains: nodejs Express, Azure Functions, python
 
 
-## Research Projects
+## Education
 
-**Live Piano Cover Transcription**
-`Jan 2018 - Sep 2018`
+**Singapore University of Technology and Design**
+`May 2017 - Aug 2021`
 
-- Generated a dataset of synthesized piano covers and its respective scores for training
-- Developed a machine learning model to transcribe piano covers within two octaves
+- Bachelors of Engineering with Honours
+- Engineering Systems and Design, Operations Research Track with Computer Science Minor
+- Grade Point Average <a id="sutd-gpa">> 4.00/5.00</a>
 
+**Singapore Management University**
+`May 2017 - Aug 2021`
 
-**Fake News Chrome Extension**
-`Oct 2017 - Jul 2018`
-
-- Constructed a Python API to detect registered falsehoods with subject-word-object triplets
+- Bachelor of Business Management
+- Grade Point Average <a id="smu-gpa">> 3.00/4.00</a>
 
 
 ## Activities
