@@ -9,11 +9,7 @@ title: Resume
 <a id="personal-contacts">Singapore Citizen | hello (at) huikang.dev</a> 
 </div>
 <div id="webaddress">
-<a href="https://blog.huikang.dev?utm_source=resume"
-onclick="getOutboundLink('Resume'); return true;"
-target="_blank">
-Blog</a> |
-<a href="https://blog.huikang.dev/resume/?utm_source=resume"
+<a href="https://resume.huikang.dev?utm_source=resume"
 onclick="getOutboundLink('Resume'); return true;"
 target="_blank">
 Resume</a> |
@@ -21,6 +17,10 @@ Resume</a> |
 onclick="getOutboundLink('LinkedIn'); return true;"
 target="_blank">
 LinkedIn</a> |
+<a href="https://blog.huikang.dev?utm_source=resume"
+onclick="getOutboundLink('Resume'); return true;"
+target="_blank">
+Blog</a> |
 <a href="https://github.com/tonghuikang/"
 onclick="getOutboundLink('Github'); return true;"
 target="_blank">
