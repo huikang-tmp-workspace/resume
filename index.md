@@ -42,8 +42,8 @@ Codeforces</a>
 Machine Learning Engineer
 
 - Improved the recommendation systems for Quora feed and digest
-- Co-created a recommendation system for user prompt bots
-- Generated many questions with ChatGPT
+- Generated many Quora questions with ChatGPT
+- Made many tutorial bots on Poe, a marketplace of AI bots by Quora
 - Technical domains: python, C++, PrestoSQL, git, prompt engineering
 
 **Versafleet**
