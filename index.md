@@ -32,7 +32,11 @@ Kaggle</a> |
 <a href="https://codeforces.com/profile/huikang/"
 onclick="getOutboundLink('Codeforces'); return true;"
 target="_blank">
-Codeforces</a>
+Codeforces</a> |
+<a href="https://poe.com/huikang/"
+onclick="getOutboundLink('Poe'); return true;"
+target="_blank">
+Poe</a>
 </div>
 
 ## Work Experience
