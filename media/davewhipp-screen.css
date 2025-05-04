@@ -24,6 +24,12 @@ time, mark, audio, video {
 	vertical-align: baseline;
 	word-wrap: break-word;
 }
+
+/* Prevent horizontal scrolling */
+html, body {
+	overflow-x: hidden;
+	max-width: 100%;
+}
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -82,6 +88,8 @@ p code {
 	position: absolute;
 	text-align: right;
 	right: -20%;
+	max-width: 20%;
+	white-space: nowrap;
 }
 
 
@@ -164,6 +172,9 @@ a {
 	left: 25%;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
+	max-width: 75%;
+	overflow-wrap: break-word;
+	word-break: break-word;
 }
 
 #webaddress a {
@@ -190,18 +201,57 @@ strong {
 
 
 @media only screen and (max-width: 960px) {
-	h1,h2,h3,code,p,p code,#webaddress,ul {
+	h1,h2,h3,p,#webaddress,ul,#contacts {
 		display: block;
 		position: relative;
 		top: 0;
 		text-align: left;
 		left: 0%;
 		width: 100%;
+		max-width: 100%;
+		box-sizing: border-box;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	
+	code {
+		display: block;
+		position: relative;
+		top: 0;
+		text-align: left;
+		left: 0%;
+		width: 100%;
+		max-width: 100%;
+		box-sizing: border-box;
+		padding-left: 0; /* Remove padding for date codes */
+		padding-right: 10px;
+	}
+	
+	p code {
+		position: relative;
+		text-align: left;
+		left: 0;
+		right: auto;
+		max-width: 100%;
+		white-space: nowrap;
+		display: inline-block;
+		margin-bottom: 6px;
 	}
 
 	code+br {
 		margin: 0px 0;
 		content: "";
 		display: block;
+	}
+	
+	#webaddress a {
+		display: inline-block;
+		margin-right: 5px;
+		margin-bottom: 5px;
+	}
+	
+	#main {
+		width: 100%;
+		overflow-x: hidden;
 	}
 }
