@@ -46,21 +46,16 @@ Poe</a>
 Machine Learning Engineer
 
 - Improved the recommendation systems for Quora feed and digest
+- Runs the product interview for content recommendation systems
+
 - Generates Quora questions with LLMs with evaluation and logging
 - Wrote and evaluated prompts for topic labelling
-- Runs the product interview for content recommendation systems
-- Promoting the internal use of Claude Code
+
+- Promoting the internal use of Claude Code with advice on best practices
 - Prototyping an tool to write, execute and verify Trino queries for offline data
+
 - Languages: python, prompt engineering, Trino/PrestoSQL, C++,
 - Technical domains: recommendation systems, large language models, git, A/B testing
-
-**Versafleet**
-`Dec 2020 - Jan 2021`<br>
-Data Science Intern
-
-- Explored vehicle and driver features to improve the estimate of the time of arrival
-- Reviewed literature and prototyped a learning-based approach for vehicle routing problem
-- Technical domains: python or-tools pandas matplotlib, git, PostgreSQL
 
 **Teralytics**
 `Jan 2020 - Nov 2020`<br>
@@ -81,17 +76,14 @@ Data Science Intern
 
 ## Projects
 
-**Singapore Electoral Boundaries**
+**Codeforces** – peak rating <a href="https://codeforces.com/profile/huikang" id="rating">2235</a> (July 2022)
 
+**LeetCode** – peak rating <a href="https://leetcode.cn/u/tonghuikang/" id="rating">2992</a> (March 2022)
+
+**Singapore Electoral Boundaries**
 - Designed [metrics](https://github.com/tonghuikang/electoral-boundaries/blob/master/SCORING.md) to score how well electoral boundaries are drawn
 - Built [visualization](https://tonghuikang.github.io/electoral-boundaries/) of the electoral boundaries and the polling districts
 - Written a baseline local swapping algorithm to optimize boundaries according to the score
 - 30k views on [Reddit](https://www.reddit.com/r/singapore/comments/1k3eqvs/measuring_how_well_electoral_boundaries_are_drawn/)
-
-## Activities
-
-**Codeforces** – peak rating <a href="https://codeforces.com/profile/huikang" id="rating">2235</a> (July 2022)
-
-**LeetCode** – peak rating <a href="https://leetcode.cn/u/tonghuikang/" id="rating">2992</a> (March 2022)
 
 Currently on H-1B, also eligible for H-1B1 Singapore visa as a Singapore citizen.
