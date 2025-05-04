@@ -39,29 +39,30 @@ target="_blank">
 Poe</a>
 </div>
 
-## Work Experience
+## Experience
 
 **Quora**
 `Nov 2021 - Present`<br>
 Machine Learning Engineer
 
-- Improved the recommendation systems for Quora feed and digest
+- Designed, implemented and tested changes for Quora feed and digest recommendations
+- Investigated issues with retrieval and ranking algorithms with funnel analysis
 - Runs the product interview for content recommendation systems
-
-- Generates Quora questions with LLMs with evaluation and logging
-- Wrote and evaluated prompts for topic labelling
-
-- Promoting the internal use of Claude Code with advice on best practices
-- Prototyping an tool to write, execute and verify Trino queries for offline data
-
-- Languages: python, prompt engineering, Trino/PrestoSQL, C++,
+- <br>
+- Prompted and finetuned the generation of questions to create on Quora
+- Wrote and evaluated prompts to infer, retrieve and select topics to label content
+- <br>
+- Built a tool to write, execute and verify Trino queries for offline data
+- Promoted the internal use of Claude Code with advice on best practices
+- <br>
+- Languages: python, prompt engineering, Trino/PrestoSQL, C++
 - Technical domains: recommendation systems, large language models, git, A/B testing
 
 **Teralytics**
 `Jan 2020 - Nov 2020`<br>
 Data Science Intern
 
-- Designed and implemented metrics to illustrate the accuracy of proposed methods
+- Designed and implemented metrics to illustrate the correctness of features
 - Optimized and parallelised routine calculation pipelines with PySpark
 - Technical domains: python pandas matplotlib pyspark, git, unit tests, bash
 
@@ -70,20 +71,17 @@ Data Science Intern
 **Singapore University of Technology and Design**
 `May 2017 - Aug 2021`
 
-- Bachelors of Engineering with Honours
-- Engineering Systems and Design, Operations Research Track with Computer Science Minor
-- Grade Point Average <a id="sutd-gpa">> 4.00/5.00</a>
+- Bachelors of Engineering (Honours with Highest Distinction)
+- Engineering Systems and Design with Computer Science Minor, GPA 4.61/5.00
 
 ## Projects
 
-**Codeforces** – peak rating <a href="https://codeforces.com/profile/huikang" id="rating">2235</a> (July 2022)
+**Codeforces** – peak rating <a href="https://codeforces.com/profile/huikang">2235</a> (July 2022)
 
-**LeetCode** – peak rating <a href="https://leetcode.cn/u/tonghuikang/" id="rating">2992</a> (March 2022)
+**LeetCode** – peak rating <a href="https://leetcode.cn/u/tonghuikang/">2992</a> (March 2022)
 
 **Singapore Electoral Boundaries**
-- Designed [metrics](https://github.com/tonghuikang/electoral-boundaries/blob/master/SCORING.md) to score how well electoral boundaries are drawn
-- Built [visualization](https://tonghuikang.github.io/electoral-boundaries/) of the electoral boundaries and the polling districts
-- Written a baseline local swapping algorithm to optimize boundaries according to the score
-- 30k views on [Reddit](https://www.reddit.com/r/singapore/comments/1k3eqvs/measuring_how_well_electoral_boundaries_are_drawn/)
+- Designed [metrics](https://github.com/tonghuikang/electoral-boundaries/blob/master/SCORING.md) to score electoral boundaries, built [visualization](https://tonghuikang.github.io/electoral-boundaries/)
+- Wrote a baseline local optimization algorithm, published with 30k views on [Reddit](https://www.reddit.com/r/singapore/comments/1k3eqvs/measuring_how_well_electoral_boundaries_are_drawn/)
 
-Currently on H-1B, also eligible for H-1B1 Singapore visa as a Singapore citizen.
+Currently on H-1B, also eligible for H-1B1 Singapore visa as a Singapore citizen
