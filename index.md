@@ -58,18 +58,10 @@ Machine Learning Engineer
 - Languages: python, prompt engineering, Trino/PrestoSQL, C++
 - Technical domains: recommendation systems, large language models, git, A/B testing
 
-**Teralytics**
-`Jan 2020 - Nov 2020`<br>
-Data Science Intern
-
-- Designed and implemented metrics to illustrate the correctness of features
-- Optimized and parallelised routine calculation pipelines with PySpark
-- Technical domains: python pandas matplotlib pyspark, git, unit tests, bash
-
 ## Education
 
 **Singapore University of Technology and Design**
-`May 2017 - Aug 2021`
+`May 2017 - Aug 2021`<br>
 
 - Bachelors of Engineering (Honours with Highest Distinction)
 - Engineering Systems and Design with Computer Science Minor, GPA 4.61/5.00
@@ -81,16 +73,22 @@ Data Science Intern
 **LeetCode** – peak rating <a href="https://leetcode.cn/u/tonghuikang/">2992</a> (March 2022)
 
 **Singapore Electoral Boundaries**
-- Designed [metrics](https://github.com/tonghuikang/electoral-boundaries/blob/master/SCORING.md) to score electoral boundaries, built [visualization](https://tonghuikang.github.io/electoral-boundaries/)
-- Wrote a baseline local optimization algorithm, published with 30k views on [Reddit](https://www.reddit.com/r/singapore/comments/1k3eqvs/measuring_how_well_electoral_boundaries_are_drawn/)
+`Apr 2025`<br>
+Designed [metrics](https://github.com/tonghuikang/electoral-boundaries/blob/master/SCORING.md) to score electoral boundaries, built [visualization](https://tonghuikang.github.io/electoral-boundaries/), published on [Reddit](https://www.reddit.com/r/singapore/comments/1k3eqvs/measuring_how_well_electoral_boundaries_are_drawn/)
 
 **Automatic Prompt Engineering**
-- Wrote a [notebook](https://github.com/tonghuikang/automatic-prompt-engineer) to write and improve classification prompts
+`May 2024 - Present`<br>
+Wrote a [notebook](https://github.com/tonghuikang/automatic-prompt-engineer) to write and improve classification prompts
 
-**GRPO to classify code output**
-- Finetuned DeepSeek-R1-Distill-Qwen-1.5B to [classify](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/discussion/571230) code execution outputs
+**AI Mathematical Olympaid 2**
+`Oct 2024 - Apr 2025`<br>
+Finetuned DeepSeek-R1-Distill-Qwen-1.5B to [classify](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/discussion/571230) code execution outputs
 
-**Writings on AI** – [prompting](https://blog.huikang.dev/ai/prompt-engineering/2024/12/31/prompting-projects.html) projects, competitive programming [supercommunity](https://blog.huikang.dev/ai/competitive-programming/2024/12/29/competitive-programming-and-superintelligence.html)
+**Konwinski Prize**
+`Dec 2024 - Mar 2025`<br>
+Published the widely used [baseline notebook](https://www.kaggle.com/code/huikang/starter-notebook-select-patch-verify). Ranked [7th](https://www.kaggle.com/competitions/konwinski-prize/leaderboard) in the public leaderboard.
+
+**Writings on AI** - [prompting](https://blog.huikang.dev/ai/prompt-engineering/2024/12/31/prompting-projects.html) projects, competitive programming [supercommunity](https://blog.huikang.dev/ai/competitive-programming/2024/12/29/competitive-programming-and-superintelligence.html)
 
 
 Currently on H-1B, also eligible for H-1B1 Singapore visa
