@@ -52,7 +52,7 @@ Machine Learning Engineer
 - Prompted and finetuned the generation of questions to create on Quora
 - Wrote and evaluated prompts to infer, retrieve and select topics to label content
 - <br>
-- Built a tool to write, execute and verify Trino queries for offline data
+- Built an internal agent to write, execute and verify Trino queries for offline data
 - Promoted the internal use of Claude Code with advice on best practices
 - <br>
 - Languages: python, prompt engineering, Trino/PrestoSQL, C++
@@ -84,4 +84,13 @@ Data Science Intern
 - Designed [metrics](https://github.com/tonghuikang/electoral-boundaries/blob/master/SCORING.md) to score electoral boundaries, built [visualization](https://tonghuikang.github.io/electoral-boundaries/)
 - Wrote a baseline local optimization algorithm, published with 30k views on [Reddit](https://www.reddit.com/r/singapore/comments/1k3eqvs/measuring_how_well_electoral_boundaries_are_drawn/)
 
-Currently on H-1B, also eligible for H-1B1 Singapore visa as a Singapore citizen
+**Automatic Prompt Engineering**
+- Wrote a [notebook](https://github.com/tonghuikang/automatic-prompt-engineer) to write and improve classification prompts
+
+**GRPO to classify code output**
+- Finetuned DeepSeek-R1-Distill-Qwen-1.5B to [classify](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-2/discussion/571230) code execution outputs
+
+**Writings on AI** – [prompting](https://blog.huikang.dev/ai/prompt-engineering/2024/12/31/prompting-projects.html) projects, competitive programming [supercommunity](https://blog.huikang.dev/ai/competitive-programming/2024/12/29/competitive-programming-and-superintelligence.html)
+
+
+Currently on H-1B, also eligible for H-1B1 Singapore visa

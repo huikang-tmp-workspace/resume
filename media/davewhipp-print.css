@@ -155,7 +155,7 @@ h3 {
 }
 
 a {
-	color: inherit;
+	color: #0066cc;
 	text-decoration: none
 }
 
@@ -176,6 +176,7 @@ div > a:hover {
 }
 
 #webaddress a {
+	color: #bc412b !important;
 	text-decoration: none;
 }
 
@@ -192,6 +193,3 @@ strong {
 	display: none;
 	visibility: hidden;
 }
-
-
-
