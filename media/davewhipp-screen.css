@@ -98,7 +98,7 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: 0%;
 	max-width: 20%;
 	white-space: nowrap;
 }

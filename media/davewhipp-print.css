@@ -72,10 +72,10 @@ body {
 /* Paragraph styling - creates left offset and fixed width for content */
 p {
 	position: relative;
-	left: 25%;
+	left: 15%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 60%;
+	width: 85%;
 }
 
 /* Code block styling - monospace font with light gray color */
@@ -91,15 +91,15 @@ code {
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: 5%;
 }
 
 
 /* List styling - aligned with paragraph left offset */
 ul {
 	position: relative;
-	left: 25%;
-	width: 75%;
+	left: 15%;
+	width: 85%;
 	margin-bottom: 1em;
 	/*margin-top: -0.5em;*/
 }
@@ -140,7 +140,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 25%;
+	left: 15%;
 }
 
 /* Subtitle styling (paragraph immediately following h1) */
@@ -158,7 +158,7 @@ h2 {
 	position: relative;
 	top: 1.2em;
 	text-align: right;
-	width: 20%;
+	width: 10%;
 }
 
 
@@ -188,7 +188,7 @@ div > a:hover {
 #webaddress, #contacts {
 	margin-top: 1em;
 	position: relative;
-	left: 25%;
+	left: 15%;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }
