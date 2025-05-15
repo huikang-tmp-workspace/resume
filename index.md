@@ -68,9 +68,11 @@ Machine Learning Engineer
 
 ## Projects
 
-**Codeforces** – peak rating <a href="https://codeforces.com/profile/huikang">2235</a> (July 2022)
+**LeetCode** - peak rating <a href="https://leetcode.cn/u/tonghuikang/">2992</a>
+`March 2022`
 
-**LeetCode** – peak rating <a href="https://leetcode.cn/u/tonghuikang/">2992</a> (March 2022)
+**Codeforces** - peak rating <a href="https://codeforces.com/profile/huikang">2235</a>
+`July 2022`
 
 **Singapore Electoral Boundaries**
 `Apr 2025`<br>
