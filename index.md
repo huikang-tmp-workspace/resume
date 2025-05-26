@@ -90,7 +90,7 @@ Finetuned DeepSeek-R1-Distill-Qwen-1.5B to [classify](https://www.kaggle.com/com
 `Dec 2024 - Mar 2025`<br>
 Published the widely used [baseline notebook](https://www.kaggle.com/code/huikang/starter-notebook-select-patch-verify). Ranked [7th](https://www.kaggle.com/competitions/konwinski-prize/leaderboard) in the public leaderboard.
 
-**Writings on AI** - [prompting](https://blog.huikang.dev/ai/prompt-engineering/2024/12/31/prompting-projects.html) projects, competitive programming [supercommunity](https://blog.huikang.dev/ai/competitive-programming/2024/12/29/competitive-programming-and-superintelligence.html)
+**Writings on AI** - checklist for [prompting](https://blog.huikang.dev/ai/prompt-engineering/2024/12/31/prompting-projects.html) projects, competitive programming [supercommunity](https://blog.huikang.dev/ai/competitive-programming/2024/12/29/competitive-programming-and-superintelligence.html), blueprint for [multichannel](https://blog.huikang.dev/2025/05/14/multichannel-prediction.html) next-token generation, drawing the [decoder](https://github.com/tonghuikang/llm_architecture/blob/master/architecture.drawio.png) layer
 
 
 Currently on H-1B, also eligible for H-1B1 Singapore visa
