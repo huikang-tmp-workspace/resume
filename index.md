@@ -53,10 +53,10 @@ Machine Learning Engineer
 - Wrote and evaluated prompts to infer, retrieve and select topics to label content
 - <br>
 - Built an internal agent to write, execute and verify Trino queries for offline data
-- Promoted the internal use of Claude Code with advice on best practices
+- Wrote and maintained CLAUDE.md for the company
 - <br>
-- Languages: python, prompt engineering, Trino/PrestoSQL, C++
-- Technical domains: recommendation systems, large language models, git, A/B testing
+- Languages: Python, prompt engineering, evals, Trino/PrestoSQL, C++
+- Technical domains: recommendation systems, large language models, A/B testing
 
 ## Education
 
